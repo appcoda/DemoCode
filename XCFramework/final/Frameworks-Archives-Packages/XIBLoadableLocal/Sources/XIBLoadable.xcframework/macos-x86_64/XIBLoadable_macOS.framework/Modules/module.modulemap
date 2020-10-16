@@ -1,0 +1,11 @@
+framework module XIBLoadable_macOS {
+  umbrella header "XIBLoadable_macOS.h"
+
+  export *
+  module * { export * }
+}
+
+module XIBLoadable_macOS.Swift {
+    header "XIBLoadable_macOS-Swift.h"
+    requires objc
+}

@@ -1,0 +1,48 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.2)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk
+iPhoneOS14.0.sdk
+/Users/gabriel/Library/Developer/Xcode/DerivedData/XIBLoadable-iOS-bjjuwhqjyagydidvrfrhrllrwbvh/Build/Intermediates.noindex/ArchiveIntermediates/XIBLoadable-iOS/IntermediateBuildFilesPath/XIBLoadable-iOS.build/Release-iphoneos/XIBLoadable-iOS.build/DerivedSources/XIBLoadable_iOS_vers.c
+/Users/gabriel/Google Drive/_Work/5. Tutorials/Appcoda Restart/iOS/Tutorial 78 - XCFramework and Swift Packages/Project/Final/Frameworks-Archives-Packages/XIBLoadable-iOS
+_$sypWOc
+_$sypSgWOh
+___swift_instantiateConcreteTypeFromMangledName
+_$sSo6UIViewCMa
+_symbolic ypSg
+_$sypSgMD
+_$sSo6UIViewCML
+_symbolic $s15XIBLoadable_iOS0A0P
+_$s15XIBLoadable_iOS0A0_pMF
+_$s15XIBLoadable_iOSMXM
+__swift_FORCE_LOAD_$_swiftUIKit_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftDarwin_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftFoundation_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftDispatch_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftCoreImage_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftMetal_$_XIBLoadable_iOS
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_XIBLoadable_iOS
+___swift_reflection_version
+Apple clang version 12.0.0 (clang-1200.0.30.1)
+<swift-imported-modules>
+Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+/Users/gabriel/Google Drive/_Work/5. Tutorials/Appcoda Restart/iOS/Tutorial 78 - XCFramework and Swift Packages/Project/Final/Frameworks-Archives-Packages/XIBLoadable-iOS/XIBLoadable.swift
+add
+$sSo6UIViewCMa
+<compiler-generated>
+$sypSgWOh
+$sypWOc
+load
+first.get
+$sSayxGSlsSly7ElementQz5IndexQzcirTWyp_Ti5
+$sSayxSiciryp_Tg5
+$sSayxSicigyp_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$sSayxGSlsSl8endIndex0B0QzvgTWyp_Ti5
+$sSa8endIndexSivgyp_Tg5
+$sSa9_getCountSiyFyp_Tg5
+$ss22_ContiguousArrayBufferV5countSivgyp_Tg5
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgyp_Tg5
